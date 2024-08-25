@@ -44,3 +44,8 @@ The application will print the weighing results and the final identification of 
 ## Troubleshooting
 - If you encounter any issues with ChromeDriver, ensure that your Chrome browser is up-to date.
 - The application uses explicit waits to handle timing issues, but you may need to adjust wait times if you experience timeouts.
+
+## Screen Recording
+https://github.com/user-attachments/assets/ea354c5f-e5ab-453d-86eb-d7aaf72dc5ae
+
+
